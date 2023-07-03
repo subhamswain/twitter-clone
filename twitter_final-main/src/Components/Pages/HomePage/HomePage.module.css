@@ -1,0 +1,8 @@
+.wrapper{
+    display: flex;
+    overflow-x: hidden;
+}
+
+.right{
+    width: max-content;
+}

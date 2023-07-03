@@ -1,0 +1,19 @@
+.wrapper{
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    /* border:2px solid brown; */
+    
+   
+}
+.main{
+    flex: 1;
+    margin-left: 1.8rem;
+    align-items: flex-end;
+    width: 20rem;
+   }
+   
+   .follow{
+       position: sticky;
+       top:-30rem
+   }
